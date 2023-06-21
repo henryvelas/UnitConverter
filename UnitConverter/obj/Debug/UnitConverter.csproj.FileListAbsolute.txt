@@ -1,0 +1,11 @@
+C:\Users\ASUS\Documents\C#\UnitConverter\UnitConverter\bin\Debug\UnitConverter.exe.config
+C:\Users\ASUS\Documents\C#\UnitConverter\UnitConverter\bin\Debug\UnitConverter.exe
+C:\Users\ASUS\Documents\C#\UnitConverter\UnitConverter\bin\Debug\UnitConverter.pdb
+C:\Users\ASUS\Documents\C#\UnitConverter\UnitConverter\obj\Debug\UnitConverter.csproj.AssemblyReference.cache
+C:\Users\ASUS\Documents\C#\UnitConverter\UnitConverter\obj\Debug\UnitConverter.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\Documents\C#\UnitConverter\UnitConverter\obj\Debug\UnitConverter.Form1.resources
+C:\Users\ASUS\Documents\C#\UnitConverter\UnitConverter\obj\Debug\UnitConverter.Properties.Resources.resources
+C:\Users\ASUS\Documents\C#\UnitConverter\UnitConverter\obj\Debug\UnitConverter.csproj.GenerateResource.cache
+C:\Users\ASUS\Documents\C#\UnitConverter\UnitConverter\obj\Debug\UnitConverter.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\C#\UnitConverter\UnitConverter\obj\Debug\UnitConverter.exe
+C:\Users\ASUS\Documents\C#\UnitConverter\UnitConverter\obj\Debug\UnitConverter.pdb
